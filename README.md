@@ -1,6 +1,8 @@
 Проект: База знаний по игре Mobile Legends: Bang Bang.
 Участники: Столяров Максим, Давиденко Максим, Ермолай Косицын (ИСиП22-01/2п).
 
+Ссылка на сайт: https://mobile-legends-bang-bang-student-project.fandom.com/ru/f
+
 Сделано:
 1. Найдена платформа (fandom.com).
 2. Платформа одобрила сайт.
